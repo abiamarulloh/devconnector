@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://mesabi:admin@devconnector.tclwu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "MySecret",
+    "githubClientId": "b01fa8ca122f0fdef510",
+    "githubSecret": "7dddbe83f0af71d528e38ad9214c38d9eff22a1d"
+}
